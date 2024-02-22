@@ -19,7 +19,8 @@
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^8.0.3",
-    "release-it": "^17.0.3"
+    "release-it": "^17.0.3",
+    "@changesets/cli": "^2.27.1"
   },
   "config": {
     "commitizen": {
